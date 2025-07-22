@@ -3,7 +3,6 @@ package com.day1;
 public class DataTypesDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int value1 = 9 / 2; //integer division
 		float value2 = 101 / 61;
 		double value3 = 10d / 6d;
