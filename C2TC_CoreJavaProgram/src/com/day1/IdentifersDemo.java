@@ -1,4 +1,4 @@
-package com.tnsif.dayone;
+package com.day1;
 
 public class IdentifersDemo {
 
@@ -24,6 +24,6 @@ public class IdentifersDemo {
 	
 		String studentName="Aniket"; //use camelcase
 		System.out.println("value is : "+ studentName);
-	}
+}
 
 }

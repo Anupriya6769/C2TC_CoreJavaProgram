@@ -1,6 +1,9 @@
-package com.tnsif.dayone;
-public class CharDemo {
+package com.day1;
+
+public class CharDem {
+
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		char ch = 'a';
 		System.out.println(ch);
 

@@ -1,8 +1,9 @@
-package com.tnsif.dayone;
+package com.day1;
 
 public class TypeCastingDemo {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		byte b = 10;
 		int i = b;
 		System.out.println(i);
@@ -36,7 +37,6 @@ public class TypeCastingDemo {
 		byte b1 = 90;
 		char ch1 = (char) b1;
 		System.out.println(ch1);
-
 	}
 
 }

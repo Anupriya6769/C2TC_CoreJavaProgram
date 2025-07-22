@@ -1,4 +1,4 @@
-package com.tnsif.dayone;
+package com.day1;
 
 public class PrimitiveDataTypesDemo {
 
@@ -36,7 +36,6 @@ public class PrimitiveDataTypesDemo {
 		//boolean 
 		boolean flag=false;
 		System.out.println("boolean value is "+flag);
-
 	}
 
 }
