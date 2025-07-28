@@ -28,7 +28,6 @@ class Student implements Cloneable {
 	public void setName(String name) {
 		this.name = name;
 	}
-
 	// Class constructor
 	public Student(int rollNo, String className, String name) {
 		this.rollNo = rollNo;

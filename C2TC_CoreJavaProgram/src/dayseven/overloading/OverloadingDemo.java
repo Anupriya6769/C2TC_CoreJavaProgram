@@ -13,7 +13,6 @@ public class OverloadingDemo {
 
 		Point p2 = new Point(12.5f, 20.50f); //two parameters constructor
 		System.out.println(p2);
-
 		System.out.println("------------------------ Method Overloading -----------------------");
 		System.out.println("Addition of two integers : " + MethodOverloading.addition(10, 20));
 		System.out.println("Addition of two floating numbers :" + MethodOverloading.addition(10.0f, 20.f));

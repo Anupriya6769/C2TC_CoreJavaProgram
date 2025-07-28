@@ -14,7 +14,6 @@ public class Operations {
 		}
 		return dummyNumber==rev;
 	}
-
 	//check whether string is Palindrome or not?
 	public static boolean isPalindrome(String str)
 	{

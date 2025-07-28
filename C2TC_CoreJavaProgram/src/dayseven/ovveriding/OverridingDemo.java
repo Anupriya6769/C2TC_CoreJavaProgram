@@ -13,6 +13,5 @@ public class OverridingDemo {
 
 		rbi = new HDFC();
 		System.out.println(rbi.getRateOfInterest());
-
 	}
 }

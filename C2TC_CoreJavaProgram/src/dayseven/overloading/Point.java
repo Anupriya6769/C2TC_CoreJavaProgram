@@ -7,7 +7,6 @@ public class Point {
 		x = 0.0f;
 		y = 0.0f;
 	}
-
 	public Point(float x) {
 		this.x = x;
 		this.y = x;
