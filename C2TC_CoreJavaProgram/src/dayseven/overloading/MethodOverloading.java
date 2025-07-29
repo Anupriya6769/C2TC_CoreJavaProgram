@@ -1,6 +1,5 @@
 package dayseven.overloading;
 public class MethodOverloading {
-
 	public static int addition(int a, int b) {
 		return a + b;
 	}

@@ -2,7 +2,6 @@ package dayseven.overloading;
 public class OverloadingDemo {
 
 	public static void main(String[] args) {
-
 		System.out.println("------------------------ Constructor Overloading -----------------------");
 		
 		Point p = new Point(); //default constructor invoked

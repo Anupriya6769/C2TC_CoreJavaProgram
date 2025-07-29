@@ -1,7 +1,6 @@
 package dayseven.overloading.v1;
 
 public class Operations {
-	
 	//check whether number is Palindrome or not?
 	public static boolean isPalindrome(int number)
 	{

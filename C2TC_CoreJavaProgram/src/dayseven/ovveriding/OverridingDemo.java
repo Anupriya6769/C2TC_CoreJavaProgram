@@ -1,6 +1,5 @@
 package dayseven.ovveriding;
 public class OverridingDemo {
-
 	public static void main(String[] args) {
 		RBI rbi;
 

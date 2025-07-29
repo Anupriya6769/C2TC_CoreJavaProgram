@@ -12,7 +12,6 @@ class Student implements Cloneable {
 	public void setRollNo(int rollNo) {
 		this.rollNo = rollNo;
 	}
-
 	public String getClassName() {
 		return className;
 	}
@@ -24,7 +23,6 @@ class Student implements Cloneable {
 	public String getName() {
 		return name;
 	}
-
 	public void setName(String name) {
 		this.name = name;
 	}
