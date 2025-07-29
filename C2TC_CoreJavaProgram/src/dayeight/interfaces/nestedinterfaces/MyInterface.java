@@ -1,5 +1,4 @@
 package dayeight.interfaces.nestedinterfaces;
-
 public interface MyInterface {
 	 void calculateArea();
 	    interface MyInnerInterface {

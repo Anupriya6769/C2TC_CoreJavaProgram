@@ -9,7 +9,6 @@ public class BankImpl implements Bank {
 			account.setBalance(account.getBalance()+amount);
      System.out.println("Deposited " + amount + " into account: " + account.getAccNo());
  }
-
  @Override
  public void withdraw(Account account, double amount) {
 	 if (account.getBalance() - amount >= MIN_BALANCE)

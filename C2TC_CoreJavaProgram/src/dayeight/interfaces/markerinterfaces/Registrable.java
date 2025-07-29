@@ -1,4 +1,5 @@
 package dayeight.interfaces.markerinterfaces;
-public class Registrable {
+
+public interface Registrable {
 
 }
