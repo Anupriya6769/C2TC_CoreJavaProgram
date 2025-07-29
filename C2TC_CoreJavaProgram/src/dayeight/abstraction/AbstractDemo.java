@@ -8,11 +8,9 @@ public class AbstractDemo {
 		sq.show();
 		r1.calArea();
 		r1.show();
-		
-		System.out.println("------------------------------------------------");
+	System.out.println("------------------------------------------------");
 		//Runtime Polymorphism / Dynamic binding / late binding
-		//Ex: Method Overriding
-		
+		//Ex: Method Overridin
 		Shape shape;
 		shape=new Square(12.5f);
 		
