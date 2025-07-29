@@ -1,5 +1,9 @@
 package dayeight.interfaces.implementinginterfaces;
+public interface Bank {
+	 double MIN_BALANCE = 1000;
+	 double DEPOSIT_LIMIT = 25000;
+	 double INTEREST_RATE = 7.8;
 
-public class Bank {
-
-}
+	 void deposit(Account account, double amount);
+	 void withdraw(Account account, double amount);
+	}

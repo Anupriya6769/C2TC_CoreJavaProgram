@@ -1,5 +1,4 @@
 package dayeight.interfaces.extendinginterfaces;
-
-public class ChildInterface {
-
+public interface ChildInterface extends InterfaceOne {
+	void show();
 }
